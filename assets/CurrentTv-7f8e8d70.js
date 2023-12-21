@@ -1,0 +1,1 @@
+import{_ as t}from"./MediaItem-cf9023d0.js";import{s,x as a,o,c as n,a as r}from"./index-1af602d7.js";const c={class:"main"},l={__name:"CurrentTv",setup(m){const e=s();return a(()=>{e.tv=null}),(_,i)=>(o(),n("main",c,[r(t,{type:"tv"})]))}};export{l as default};

@@ -1,0 +1,1 @@
+import{_ as o}from"./MediaItem-cf9023d0.js";import{s as t,x as s,o as a,c as n,a as m}from"./index-1af602d7.js";const r={class:"main"},l={__name:"CurrentMovie",setup(c){const e=t();return s(()=>{e.movie=null}),(_,i)=>(a(),n("main",r,[m(o,{type:"movie"})]))}};export{l as default};
